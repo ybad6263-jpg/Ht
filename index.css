@@ -448,7 +448,7 @@ main{
 .visionmission .vision,
 .visionmission .mission
 , .about-text {
-    height: 250px;
+    height: auto;
     width: auto;
     background: var(--secondary-color);
     padding: 25px;
